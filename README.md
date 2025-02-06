@@ -1,1 +1,22 @@
 # didactic-meme
+# 💫 About Me:
+ Hey! I'm Amirhossein, a versatile and experienced full-stack developer with a strong background in both front-end and back-end technologies.<br> ◉ My expertise includes:<br><br>◈ Web Development ◈<br> Experienced in PHP, HTML, JavaScript, CSS, jQuery,React, AJAX, and Progressive Web Applications (PWA)<br><br>◈ Networking ◈<br>Certified in Network+, CCNA, CEH, and Linux<br><br>◈ Database Management ◈<br>Proficient in MySQL<br><br>◈ ProgrammingLLanguages ◈<br>Skilled in Python, Flask, C#, and C++<br><br>◈ Security ◈<br>Proficient in securing websites and social media platforms.<br><br> ◈ GraphicDesigner ◈<br>In addition to my development skills, I am also a talented Graphic Designer with expertise in Adobe Photoshop (Ps), Illustrator (Ai), and Dreamweaver (Dw).<br><br><br><br>◉ Projects<br><br>I have successfully completed various projects, including:<br><br>- Farakar Company: Online job search platform.<br>- Chatbot Development: Created advanced chatbots using ChatGPT.<br>- Game AI: Developed artificial intelligence for games.<br>- Image AI: Implemented AI solutions for image processing and analysis.<br>- Translation Projects: Translating texts and historical timelines.<br>- AI-Generated Images: Creating images in 8 modern styles.<br>- AI Conversations: Engaging with top AI models, featuring voice generation, speech-to-text, model customization,<br> music playing, and SMS sending.<br> - Haymode :  modern, user-friendly platform with diverse products, combining global design and color psychology.<br><br>What sets me apart is that I do what I love, not for money😊👌<br><br>For further acquaintance, be sure to send me an email : 👇<br><br>📌 Email :  mw.ps.reports@gmail.com
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-rahro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mw.ps.reports@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AMIRHOSSEIN-RAHRO&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEIN-RAHRO&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRHOSSEIN-RAHRO&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AMIRHOSSEIN-RAHRO&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AMIRHOSSEIN-RAHRO&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
